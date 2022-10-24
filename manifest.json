@@ -1,0 +1,9 @@
+{
+  "author": "igorlogius",
+  "background": { "scripts": ["background.js"] },
+  "icons": { "256": "icon.png" },
+  "manifest_version": 2,
+  "name": "Quick Save",
+  "permissions": ["notifications", "menus", "downloads"],
+  "version": "1.0.0"
+}
